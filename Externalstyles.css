@@ -1,0 +1,70 @@
+.saisri{
+	border: 2px solid violet;
+	background-color: yellow;
+	font-size:15px;
+	font-family:unset;
+	color:green;
+
+}
+#pen{
+	font-size:15px;
+	border: 3px solid red;
+	background-color:pink;
+	font-family:monospace;
+}
+p{
+	font-size:15px;
+	border:2px solid darkblue;
+	background-color:yellow;
+	font-family:unset;
+}
+div{
+	height:200px;
+	width:200px;
+	background-color:black; 
+}
+*{
+	font-size:15px;
+	font-family:cursive;
+	color:deeppink;
+}
+input[type]{
+	color:red
+}
+input[type="text"]{
+	color:violet
+}
+input[type="number"]{
+	color:red
+}
+input[type="password"]{
+	color:green
+}
+input[type="email"]{
+	color:darkblue
+}
+a[href]{
+	background-color:gold
+}
+div{
+	height:100px;
+	width:150px;
+	background-color:blue;
+}
+a:link{
+	color:pink;
+}
+a:visited{
+	color:red;
+}
+a:hover{
+	color:green;
+}
+a:active{
+	color:blue;
+}
+div:hover{
+	height:300px;
+	width:300px;
+	background-color:yellow;
+}
