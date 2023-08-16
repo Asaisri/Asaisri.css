@@ -1,38 +1,39 @@
 .a{
-	height:400px;
+	height:500px;
 	width:900px;
-	background-color:grey;
+	background-color:pink;
+	margin-top:60px;
 	}
 .b{
 	height:330px;
 	width:240px;
-	margin-top:35px;
+	margin-top:70px;
 	margin-bottom:35px;
 	margin-left:50px;
 	margin-right:10px;
-	background-color:beige;
+	background-color:lightgrey;
 	float:left;
 	border-radius:15px;
 	}
 .c{
 	height:330px;
 	width:280px;
-	margin-top:35px;
+	margin-top:70px;
 	margin-bottom:35px;
 	margin-left:10px;
 	margin-right:10px;
-	background-color:beige;
+	background-color:lightgrey;
 	float:left;
 	border-radius:15px;
 	}
 .d{
 	height:330px;
 	width:240px;
-	margin-top:35px;
+	margin-top:70px;
 	margin-bottom:35px;
 	margin-left:10px;
 	margin-right:50px;
-	background-color:beige;
+	background-color:lightgrey;
 	float:right;
 	border-radius:15px;
 	}
@@ -40,7 +41,7 @@
 	font-size:20px;
 }
 .bu{
-	background-color:skyblue;
+	background-color:darkblue;
 	color:white;
 	font-size:10px;
 	width:70px;
